@@ -1,44 +1,52 @@
-# Mintlify Starter Kit
+Welcome to the official documentation for Pulsefolio - the all in one PulseChain Dashboard.
 
-Use the starter kit to get your docs deployed and ready to customize.
+## About Pulsefolio
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+Pulsefolio is built exclusively for PulseChain — a non-custodial dashboard where every wallet, token, NFT, and on-chain action comes together. This isn't just another tracker. Pulsefolio is the identity layer and dashboard for PulseChain, giving you the ability to create profiles, explore assets, and stay connected — all in one place, powered by the chain you use every day.
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
+## Features
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+### 🏠 Portfolio
+Your Pulsefolio portfolio brings everything you hold on PulseChain into one clear view. From core tokens like PLS, PLSX, INC, and HEX to other blue chips and onboarded projects, every balance is tracked with live on-chain pricing, USD values, and 24-hour changes.
 
-## Development
+### 🎨 Digital Collectibles
+Browse your PulseChain NFT collection in a clean grid or detailed list view, complete with thumbnails for quick recognition. Each collectible displays its estimated value, rarity ranking, and full trait details.
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+### 📊 Recent Activity
+Stay on top of everything happening in your wallet with Pulsefolio's Recent Activity feed. Every token transfer, NFT move, PulseX liquidity add or remove, and staking action is captured in one organized stream.
 
-```
-npm i -g mint
-```
+### 👥 Community Connections
+Pulsefolio is more than a portfolio tracker — it's where the PulseChain community comes together. Profiles can be made public, allowing you to share your on-chain presence with a name, avatar, and bio.
 
-Run the following command at the root of your documentation, where your `docs.json` is located:
+### 🚀 Project Onboarding
+Pulsefolio gives projects the ability to showcase themselves directly to the PulseChain community. To ensure safety and quality, every project must go through an onboarding process before being listed.
 
-```
-mint dev
-```
+### 🎁 Referrals & Rewards
+Every registered wallet on Pulsefolio receives a unique referral link. Sharing this link allows you to invite new users to the platform and grow the Pulsefolio community.
 
-View your local preview at `http://localhost:3000`.
+### 🐋 Whale Tracking
+Track the largest wallets in real time and see when they buy, sell, stake, or adjust liquidity positions. You can build custom watchlists of wallets you care about most.
 
-## Publishing changes
+### 💎 Premium
+Pulsefolio will include a Premium tier for users who want access to enhanced features beyond the core experience.
 
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
+### 🔄 Swap
+Pulsefolio includes a built-in swap feature powered by a DEX aggregator. This allows users to trade tokens directly inside the dashboard while automatically routing through the best available rates across PulseChain.
 
-## Need help?
+## Core Principles
 
-### Troubleshooting
+- **PulseChain First** → 100% dedicated to PulseChain
+- **Non-Custodial by Design** → Your wallet stays yours. We never hold your keys or funds
+- **Data You Can Trust** → Live pricing, wallet PnLs, and explorer links for on-chain verification
+- **Curated Listings** → Only onboarded projects are showcased, giving users confidence and projects a reason to seek Pulsefolio exposure
+- **Clean & Simple** → Smart design that makes complex data easy to navigate
 
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
+## Official Links
 
-### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
-- [Mintlify community](https://mintlify.com/community)
+- **Website**: [pulsefolio.io](https://pulsefolio.io)
+- **Documentation**: [docs.pulsefolio.io](https://docs.pulsefolio.io)
+- **Telegram**: [t.me/pulsefolio](https://t.me/pulsefolio)
+- **Twitter (X)**: [x.com/pulsefolio](https://x.com/pulsefolio)
+- **GitHub**: [github.com/pulsefolio](https://github.com/pulsefolio)
+
+**Pulsefolio is the smart dashboard for PulseChain — all your assets, activity, projects, and connections in one place.**
